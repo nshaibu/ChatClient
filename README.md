@@ -13,6 +13,6 @@ To run:
 
 ```
 $ pip install -r requirement.txt
-$ cd gui
+$ cd client
 $ ./main.py
 ```
