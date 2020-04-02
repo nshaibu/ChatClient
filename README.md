@@ -3,4 +3,16 @@ This is the client codebase for iCOM system. iCOM is an internal communication s
 ![conceptual design of the client](img/client.jpeg)
 
 ## Setup
-#### Prere
+#### Prerequisites
+* Python3
+* MySQL
+* SQLLite
+* GTK+3
+
+To run:
+
+```
+$ pip install -r requirement.txt
+$ cd gui
+$ ./main.py
+```
