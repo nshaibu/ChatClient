@@ -4,6 +4,6 @@ netifaces==0.10.9
 pycairo==1.16.2
 pycups==2.0.1
 Pygments==2.2.0
-pygobject==3.36.0
+pygobject==3.36.1
 PyMySQL==0.9.3
 requests==2.23.0
