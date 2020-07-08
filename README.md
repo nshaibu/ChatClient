@@ -9,6 +9,8 @@ This is the client codebase for iCOM system. iCOM is an internal communication s
 * SQLite
 * GTK+3, PyGObject
 
+* [Follow the guide here](https://pygobject.readthedocs.io/en/latest/getting_started.html) on how to install pygobject on your platform.
+
 To run:
 
 ```
