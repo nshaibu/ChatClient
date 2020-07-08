@@ -6,8 +6,8 @@ This is the client codebase for iCOM system. iCOM is an internal communication s
 #### Prerequisites
 * Python3
 * MySQL
-* SQLLite
-* GTK+3
+* SQLite
+* GTK+3, PyGObject
 
 To run:
 
