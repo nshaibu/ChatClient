@@ -5,5 +5,5 @@ pycairo==1.19.1
 pycups==2.0.1
 Pygments==2.6.1
 pygobject==3.36.1
-PyMySQL==0.10.1
+PyMySQL==1.0.2
 requests==2.24.0
