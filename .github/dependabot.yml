@@ -1,0 +1,16 @@
+version: 2
+updates:
+- package-ecosystem: pip
+  directory: "/"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: pygobject
+    versions:
+    - 3.38.0
+    - 3.40.0
+  - dependency-name: pygments
+    versions:
+    - 2.7.4
+    - 2.8.0
