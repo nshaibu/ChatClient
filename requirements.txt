@@ -1,7 +1,7 @@
 blinker==1.4
 geocoder==1.38.1
 netifaces==0.11.0
-pycairo==1.19.1
+pycairo==1.21.0
 pycups==2.0.1
 pygobject==3.40.1
 Pygments==2.9.0
